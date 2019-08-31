@@ -1,0 +1,94 @@
+input, .input type {
+ margin: auto;
+ width: 37%;
+ 
+}
+
+.center {
+    margin:auto;
+    width:20%
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    background-color: lightgray;
+    text-align: center;
+    margin-left: -330px;
+    width: 140%;
+    
+}
+
+h3 {
+    background-color: lightgray;
+    text-align: center;
+    margin-right: -330px;
+    margin-top: -47px;
+    width: 140%;
+    float: right;
+}
+
+h4 {
+    background-color: whitesmoke;
+    margin-top: 100px;
+    margin-left: -410px;
+    width: 160%;
+}
+
+h5 {
+    background-color: whitesmoke;
+    margin-left: -410px;
+    width: 160%;
+    font-size: 15px;
+     
+    
+}
+
+
+h6 {
+    background-color: whitesmoke;
+    margin-left: -410px;
+    width: 160%;
+    font-size: 15px;
+    
+    
+}
+
+.Title 5 {
+    color:black;
+    background-color: green;
+    margin-left: -410px;
+}
+
+
+#corners1 {
+    border-radius: 25px;
+    background-color: whitesmoke;
+    padding: 4px;
+    width: 470px;
+    height: 160px;
+    transform: translate(50%, 50%);
+    margin-left: -630px;
+
+}
+
+
+#corners2 {
+    border-radius: 25px;
+    background-color: whitesmoke;
+    padding: 4px;
+    width: 470px;
+    height: 160px;
+    transform: translate(50%, 50%);
+    margin-top: -185px;
+    margin-right: -150px;
+    float: right;
+
+}
+
+
+
+
+

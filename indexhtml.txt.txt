@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Posts Page</title>
+</head>
+<meta name="viewport" content="width=device-width, intial-scale1.0">    
+<body>
+
+
+
+<div id="root"></div>
+
+</body>
+</html>
