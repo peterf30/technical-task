@@ -1,0 +1,52 @@
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+
+const myelement = (
+    <div>
+    <h1>Posts Page</h1>
+    <div class="center">
+    <form action="/https://jsonplaceholder.typicode.com/posts"> My ID: <input type="number" name="quantity" min="1" max="10"/><input type="submit"></input> </form>
+    <h2>All posts</h2>
+    <h3>My posts</h3>
+    
+    <p id="corners1">
+    
+   <p> Title 1 </p>
+    
+   <p> Eum non blanditiis soluta porro quibusdam voluptas vel voluptatem qui placeat dolores qui
+    qui dolores qui velit aut vel inventore aut cumque culpa explicabo aliquid at perspiciatis
+    est et voluptatem dignissimos dolor itaque sit nam</p>
+    
+  <p>  Reference number: 1</p></p> 
+    
+    <p id="corners2">
+    
+    <p> Title 3 </p>
+    
+   <p> Eum non blanditiis soluta porro quibusdam voluptas vel voluptatem qui placeat dolores qui
+    qui dolores qui velit aut vel inventore aut cumque culpa explicabo aliquid at perspiciatis
+    est et voluptatem dignissimos dolor itaque sit nam </p>
+    
+   <p> Reference number: 3</p> </p>
+    
+    <h4>Title 2</h4>
+    <h5>Title 3</h5>
+    <h6>Title 4</h6>
+    <div class="Title 5">
+    <h6>Title 5</h6>
+    
+    </div>
+    </div>
+    </div>
+    
+    );
+
+
+ReactDOM.render(myelement, document.getElementById('root'));
+
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+
